@@ -4,9 +4,10 @@
 - 👯 I’m looking to collaborate on ML Projects
 - 📫 How to reach me: yasharora1908@gmail.com
 <br>
-- [![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yashar1908)](https://github.com/yashar1908/github-readme-stats)
+- [![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yashar1908&theme=midnight-purple&show_icons=true)](https://github.com/yashar1908/github-readme-stats)
   <br><br><br><hr>
- [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=yashar1908&theme=midnight-purple)](https://github.com/yashar1908/github-readme-activity-graph)
+
+- [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=yashar1908&theme=midnight-purple)](https://github.com/yashar1908/github-readme-activity-graph)
 
 <hr><br>
 
